@@ -7,7 +7,7 @@ Each of the following projects will contain a **README.md** file to summarize th
 Other information such as dataset or sources will also be included.
 
 ### Contents
-- **RetailRetail & Ecommerce**
+- **RetailRetail and Ecommerce**
   - [Sentiment Analysis on Ecommerce Product Reviews](https://github.com/kkwwym/Sentiment-Analysis-on-Ecommerce-Product-Reviews.git)
 
 - **Banking and Finance**

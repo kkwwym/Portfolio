@@ -7,7 +7,7 @@ Each of the following projects will contain a README.md file to summarize the co
 
 ### Contents
 - **RetailRetail & Ecommerce**
-  - Sentiment Analysis on Ecommerce Product Reviews
+  - [Sentiment Analysis on Ecommerce Product Reviews](https://github.com/kkwwym/Sentiment-Analysis-on-Ecommerce-Product-Reviews.git)
 
 - **Banking and Finance**
 
@@ -15,6 +15,5 @@ Each of the following projects will contain a README.md file to summarize the co
 
 - **Telecommunication**
 
-### Reference 
-Kaggle:https://www.kaggle.com
+
 

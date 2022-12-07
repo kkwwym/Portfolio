@@ -8,7 +8,7 @@ Other information such as dataset or sources will also be included.
 
 ### Contents
 - **Retail and Ecommerce**
-  - [Build a Sales Predictive Model on BigMart Supermarket Data](https://github.com/kkwwym/Build-a-Sales-Predictive-Model-on-BigMart-Supermarket-Data.git)
+  - [Build a Sales Predictive Model on Supermarket Data](https://github.com/kkwwym/Build-a-Sales-Predictive-Model-on-Supermarket-Data.git)
   - [Sentiment Analysis on Ecommerce Product Reviews](https://github.com/kkwwym/Sentiment-Analysis-on-Ecommerce-Product-Reviews.git)
 
 - **Banking and Finance**

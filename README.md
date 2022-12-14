@@ -1,4 +1,5 @@
 # Portfolio
+### Description
 This portfolio is compiled by Data Science and Data Analysis projects I have done for previous reasearch, self-learning and issue of interest. 
 To demonstrate practical ability, most of projects use real world data. 
 

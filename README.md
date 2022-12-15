@@ -19,7 +19,7 @@ Continually updated for learning and implementing on machine leanrning or other 
 
 - **Deploy a Data Dashboard**
 
-- **Build a pipeline**
+- **Build a Pipeline**
 
 
 

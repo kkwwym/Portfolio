@@ -11,7 +11,10 @@ Continually updated for learning and implementing on machine leanrning or other 
 
 ### Table of Contents
 
+[Build a Movie Recommendation System Using Content Based Filtering](https://github.com/kkwwym/Build-a-Movie-Recommendation-System-Using-Content-Based-Filtering)
+[A/B Testing For Mobile Games](https://github.com/kkwwym/AB-Testing-For-Mobile-Games)
 
+#
 
 
 

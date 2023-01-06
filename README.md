@@ -9,7 +9,7 @@ Other information such as code details, dataset or sources will also be included
 ### Table of Contents
 
 [Build a Movie Recommendation System Using Collaborative Filtering](https://github.com/kkwwym/Build-a-Movie-Recommendation-System-Using-Collaborative-Filtering)  
-[A/B Testing For Mobile Games](https://github.com/kkwwym/AB-Testing-For-Mobile-Games)
+[A/B Testing For Mobile Games](https://github.com/kkwwym/AB-Testing-For-Mobile-Games)  
 [PwC Switzerland Data Analytics Virtual Program Using Power BI](https://github.com/kkwwym/PwC-Data-Analytics-Virtual-Program-Using-Power-BI)
 
 #

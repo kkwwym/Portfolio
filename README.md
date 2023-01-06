@@ -8,7 +8,7 @@ Other information such as code details, dataset or sources will also be included
 
 ### Table of Contents
 
-[Build a Movie Recommendation System Using Content Based Filtering](https://github.com/kkwwym/Build-a-Movie-Recommendation-System-Using-Content-Based-Filtering)  
+[Build a Movie Recommendation System Using Collaborative Filtering](https://github.com/kkwwym/Build-a-Movie-Recommendation-System-Using-Collaborative-Filtering)  
 [A/B Testing For Mobile Games](https://github.com/kkwwym/AB-Testing-For-Mobile-Games)
 
 #

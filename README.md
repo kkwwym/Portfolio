@@ -7,7 +7,7 @@
 
 
 [Build a Movie Recommendation System Using Collaborative Filtering](https://github.com/kkwwym/Build-a-Movie-Recommendation-System-Using-Collaborative-Filtering)  
-
+![]
 [A/B Testing For Mobile Games](https://github.com/kkwwym/AB-Testing-For-Mobile-Games)  
 
 [BCG Data Science & Analytics Virtual Experience Program](https://github.com/kkwwym/BCG-Data-Science-and-Analytics-Virtual-Experience-Program)

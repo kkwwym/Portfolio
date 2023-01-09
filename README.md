@@ -1,16 +1,21 @@
 # Portfolio
-### Description
-Each of the following projects will contain a **README.md** file to summarize the content of the project. The process of the entire project will be displayed in a **project.jpynb** file.
-Other information such as code details, dataset or sources will also be included.
 
-( Continually updated for learning and implementing on machine leanrning or other related field... )
 
 
 ### Table of Contents
 
+
+
 [Build a Movie Recommendation System Using Collaborative Filtering](https://github.com/kkwwym/Build-a-Movie-Recommendation-System-Using-Collaborative-Filtering)  
+
 [A/B Testing For Mobile Games](https://github.com/kkwwym/AB-Testing-For-Mobile-Games)  
-[PwC Switzerland Data Analytics Virtual Program by Using Power BI](https://github.com/kkwwym/PwC-Data-Analytics-Virtual-Program-by-Using-Power-BI)
+
+[BCG Data Science & Analytics Virtual Experience Program](https://github.com/kkwwym/BCG-Data-Science-and-Analytics-Virtual-Experience-Program)
+
+[Build an Airflow Data Pipeline for Podcasts Download]()
+
+[Create a dashboard for Airbnb dataset by Using Tableau]()
+
 
 #
 ### Contact Information

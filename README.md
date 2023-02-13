@@ -8,6 +8,7 @@
 |<img src="https://github.com/kkwwym/Portfolio/blob/main/image/datascience.png" alt="Cover" width="70%"/>|[BCG Data Science & Analytics Virtual Experience Program](https://github.com/kkwwym/BCG-Data-Science-and-Analytics-Virtual-Experience-Program)<br />This is a project I participated in BCG GAMMA online internship with their data scientist. We were asked for helping our client to develop a discount plan to avoid their customer churn. ...[see more](https://github.com/kkwwym/BCG-Data-Science-and-Analytics-Virtual-Experience-Program/blob/main/README.md)|
 |<img src="https://github.com/kkwwym/Portfolio/blob/main/image/pipeline.png" alt="Cover" width="70%"/>|[Build an Airflow Data Pipeline for Podcasts Download](https://github.com/kkwwym/Build-an-Airflow-Data-Pipeline-for-Podcasts-Download)<br /> Upcoming Releases...|
 |<img src="https://github.com/kkwwym/Portfolio/blob/main/image/dashboard.png" alt="Cover" width="70%"/>|[Create a dashboard for Airbnb dataset by Using Tableau and Power BI](https://github.com/kkwwym/Create-a-dashboard-for-Airbnb-dataset-by-Using-Tableau)<br /> Upcoming Releases...|
+|<img src="https://github.com/kkwwym/Portfolio/blob/main/image/dashboard.png" alt="Cover" width="70%"/>|[Create a dashboard for data professional dataset by Using Power BI](https://github.com/kkwwym/Create-a-dashboard-for-Airbnb-dataset-by-Using-Tableau)<br /> |
 
 
 

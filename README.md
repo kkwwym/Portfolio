@@ -36,7 +36,7 @@ Keep Updating!!!
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/kkwwym/Portfolio/blob/main/image/recommendation.png"> **[Build a Movie Recommendation System Using Collaborative Filtering](https://github.com/kkwwym/Build-a-Movie-Recommendation-System-Using-Collaborative-Filtering)**
+<img align="left" width="250" height="150" src="https://github.com/kkwwym/Portfolio/blob/main/image/recommdenation.png"> **[Build a Movie Recommendation System Using Collaborative Filtering](https://github.com/kkwwym/Build-a-Movie-Recommendation-System-Using-Collaborative-Filtering)**
 
 Going to build a recommendation engine to recommend movies based on a movie that we have watched. This project is an interactive movie recommendation system that allows you to type in a movie name and immediately get ten recommendations for other movies you might want to watch.
 <br />

@@ -22,6 +22,16 @@ The purpose of a dashboard is to view the most important results at a glance. Da
 <br />
 <br />
 
+#
+
+<img align="left" width="250" height="150" src="https://github.com/kkwwym/Portfolio/blob/main/image/python.png"> **[Building 100 projects in Python](https://github.com/kkwwym/Building-100-projects-in-Python)**
+
+Keep Updating!!!<br />
+I attend a Python Bootcamp which is consisted of 100 days, 1 project for each day, this is how I master Python. Let's witness together. See how I learn data science, automation, build websites, games and apps.
+Keep Updating!!!
+<br />
+
+
 <br />
 
 ## Projects

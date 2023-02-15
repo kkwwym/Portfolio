@@ -1,24 +1,30 @@
 # Portfolio
 
-## Table of Contents
+This is my portfolio which I organize several more important projects that can demonstrate my practical ability. In order to be more familiar with the industry, all of projects use real world data.
 
-### Skills
+- **Email**    [kkwwym@gmail.com](kkwwym@gmail.com)
+- **LinkedIn** [linkedin.com/kkwwym](https://www.linkedin.com/in/kkwwym/)
+
+<br />
+
+
+## Skills
 
 <img align="left" width="250" height="150" src="https://github.com/kkwwym/Portfolio/blob/main/image/datawrangle.png"> **[Work With Various Data](https://github.com/kkwwym/Work-With-Various-Data)**
 
-There are four different type data I am going to analyze, including text data, geographical data, time Series Data and sales data. You can see how I creat in depth analyses with pie charts, bubble charts, wordcloud and even geographical maps. Also I will use Pandas ,Seaborn, Matplotlib ,Plotly ,Folium, Geopy, Wordcloud.
+There are four different type data I am going to analyze, including text data, geographical data, time series data and sales data. You can see how I creat in depth analyses with pie charts, bubble charts, wordcloud and even geographical maps. Also I will use Pandas ,Seaborn, Matplotlib ,Plotly ,Folium, Geopy, Wordcloud.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/kkwwym/Portfolio/blob/main/image/datavisual.png"> **[Create a dashboard by Using Power BI](https://github.com/kkwwym/Create-a-dashboard/tree/main)**
+<img align="left" width="250" height="150" src="https://github.com/kkwwym/Portfolio/blob/main/image/datavisual.png"> **[Create a dashboard](https://github.com/kkwwym/Create-a-dashboard/tree/main)**
 
 The purpose of a dashboard is to view the most important results at a glance. Dashboards are an interactive way to see how the project perform. I can use PowerBI and Tableau. Here is an example I use Power BI to build a data professional dashboard.
 <br />
 <br />
 
-#
+<br />
 
-### Projects
+## Projects
 
 <img align="left" width="250" height="150" src="https://github.com/kkwwym/Portfolio/blob/main/image/recommendation.png"> **[Build a Movie Recommendation System Using Collaborative Filtering](https://github.com/kkwwym/Build-a-Movie-Recommendation-System-Using-Collaborative-Filtering)**
 
@@ -33,14 +39,7 @@ Going to build a recommendation engine to recommend movies based on a movie that
 As players progress through the game they will encounter gates that force them to wait some time before they can progress or make an in-app purchase. This sort of "time gate" is usually seen in free-to-play models, and normally contains ads that can be skipped using credits. In this project, I am going to analyze the result of an A/B test where the first gate in Cookie Cats was moved from level 30 to 40. 
 
 
-<br />
 
-
-#
-
-
-
-#
 
 
 

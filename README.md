@@ -14,7 +14,7 @@ As players progress through the game they will encounter gates that force them t
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/kkwwym/Portfolio/blob/main/image/dashboard.png"> **[Create a dashboard by Using Power BI](https://github.com/kkwwym/Create-a-dashboard-for-Airbnb-dataset-by-Using-Tableau)**
+<img align="left" width="250" height="150" src="https://github.com/kkwwym/Portfolio/blob/main/image/dashboard.png"> **[Create a dashboard by Using Power BI](https://github.com/kkwwym/Create-a-dashboard/tree/main)**
 
 
 <br />

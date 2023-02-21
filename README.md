@@ -10,7 +10,7 @@ This is my portfolio which I organize several more important projects that can d
 
 ## Skills
 
-<img align="left" width="250" height="150" src="https://github.com/kkwwym/Portfolio/blob/main/image/datawrangle.png"> **[Work With Various Data](https://github.com/kkwwym/Work-With-Various-Data)**
+<img align="left" width="250" height="150" src="https://github.com/kkwwym/Portfolio/blob/main/image/datawrangle.png"> **[Work With Various Data: Exploratory Data Analysis](https://github.com/kkwwym/Work-With-Various-Data)**
 
 There are four different type data I am going to analyze, including text data, geographical data, time series data and sales data. You can see how I creat in depth analyses with pie charts, bubble charts, wordcloud and even geographical maps. Also I will use Pandas ,Seaborn, Matplotlib ,Plotly ,Folium, Geopy, Wordcloud.
 
